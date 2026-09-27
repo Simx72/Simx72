@@ -1,4 +1,4 @@
 <div align="center">
-# Simon Acosta
-**Web Developer**
+<h1>Simon Acosta</h1>
+<strong>Web Developer</strong>
 </div>
